@@ -1,0 +1,9 @@
+
+
+
+Projet java CSP :
+
+Vous devez utilisé le jdk 8.
+Nous ne savions pas comment utilisé plusieurs "main". C'est pourquoi nous avons créee une classe centrale CSP_IA qui appelle les "main" des differents projets.
+
+Si jamais vous doutez des résultats des sudokus, vous pouvez décommenter les lignes 364 et 382 qui afficheront les sudokus complétés
